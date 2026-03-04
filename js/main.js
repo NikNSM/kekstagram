@@ -1,2 +1,3 @@
-import { getArrayPhotos } from "./mocks/function-moks.js";
+import { getArrayPhotos } from "./mocks/get-array-photos.js";
 
+console.log(getArrayPhotos())
